@@ -11,12 +11,6 @@
 * will refactor the whole code 
 
 
-## Demo
-[http://vma.isocked.com/#/dashboard] (Old) 
-[http://dev-vma.isocked.com/#/dashboard] (dev) 
-## Preview
-![Preivew](http://vma.isocked.com//static/preview/01_preview.png)
-
 ## Project Structure
 ``` bash
 ├── build
