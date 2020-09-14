@@ -10,10 +10,6 @@
 * may add vuex support and sample code
 * will refactor the whole code 
 
-## Introduction
-Vue Material Admin Template is a [Vue](https://vuejs.org/index.html/) Based Material Design Admin Template.
-And use [Vuetifyjs](https://vuetifyjs.com/) as base framework.
-Vuetify is Awesome.
 
 ## Demo
 [http://vma.isocked.com/#/dashboard] (Old) 
